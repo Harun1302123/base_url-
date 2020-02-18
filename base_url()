@@ -1,2 +1,5 @@
+<?php //echo base_url(); ?>
+<?php //echo "//" . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI']; ?>
 <?php //$currentPath = $_SERVER['PHP_SELF']; $pathInfo = pathinfo($currentPath);  $url = $_SERVER['SERVER_NAME'].$pathInfo['dirname']."/"; ?>
 <?php $url = 'http://localhost/projects/hospital'; ?>
+
